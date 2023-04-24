@@ -1,4 +1,7 @@
-# map2db
+=======
+ map2db
+=======
+
 Extract a geospatial database from a MapsForge map
 
 map2db is a python 3 module which creates an FDO RFC 16 conforming 
@@ -23,3 +26,5 @@ that derivative database from the map file that you have already
 recieved, thereby satisfying this requirement.  Note that section 4.6b
 allows that an algorithm may have to be applied to reconstruct the 
 derivative database.  map2db is the implementation of such an algorithm.
+
+Coming Soon.  Check back in a few days.
